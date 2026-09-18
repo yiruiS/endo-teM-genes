@@ -15,11 +15,14 @@
 
 ## identify arabidopsis endosperm teM genes
 >Input files:
->Arabidopsis seed single cell RNA-seq
->Arabidopsis bulk RNA-seq from multiple tissues
->Arabidopsis methylation data from leaf
+>>1. Arabidopsis seed single cell RNA-seq
+>>2. Arabidopsis bulk RNA-seq from multiple tissues
+>>3. Arabidopsis methylation data from leaf
 
 >Criterion:
 >>1. 10 CHG, ≥ 40% CG, and ≥ 20%CHG in the CDS reginos
 >>2. ≥ 5-fold increase in TPM in endosperm compared to other sporophyte tissues
 >>3. genes has no less than 20TPM in edosperm
+
+## arabidopsis imprinting information
+>The arabdopsis imprinting information were downloaded from Daniela Pignatta, Robert M Erdmann, Elias Scheer, Colette L Picard, George W Bell, Mary Gehring (2014) Natural epigenetic polymorphisms lead to intraspecific variation in Arabidopsis gene imprinting eLife 3:e03198    
